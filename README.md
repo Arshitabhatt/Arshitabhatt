@@ -7,13 +7,13 @@
 I am <b>Arshita Bhatt</b>, a Delhi-NCR based Computer Science Engineer, who likes to develop simple & here-to-stay websites using ReactJS, Nodejs, ExpressJS, MongoDB, Firebase stack as well as apply Machine Learning/Deep Learning using Python for research-based projects.
 I'm an avid learner who is always ready to pick up new skills, A thinker who tries to find ways & apply them to make things work, An evolver who likes to work with the flow.
 
-<img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/linkedin.jpg" alt ="Python" width="30px">&nbsp;
-<img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/linkedin.jpg" alt ="MongoDB" width="30px">&nbsp;
-<img src="" alt ="Nodejs" width="30px">&nbsp;
-<img src="" alt ="Reactjs" width="30px">&nbsp;
-<img src="" alt ="Firebase" width="30px">&nbsp;
-<img src="" alt ="html-css" width="30px">&nbsp;
-<img src="" alt ="cplusplus" width="30px">&nbsp;
+<img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/python.png" alt ="Python" width="40px">&nbsp;
+<img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/mongodb.png" alt ="MongoDB" width="40px">&nbsp;
+<img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/nodejs.png" alt ="Nodejs" width="40px">&nbsp;
+<img src="" alt ="Reactjs" width="40px">&nbsp;
+<img src="" alt ="Firebase" width="40px">&nbsp;
+<img src="" alt ="html-css" width="40px">&nbsp;
+<img src="" alt ="cplusplus" width="40px">&nbsp;
 
 
 ### What are my goals?
