@@ -41,3 +41,5 @@ On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/me
 On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/download.png" width="70px"> :  https://www.kaggle.com/aarshibhatt112
 
 ____
+
+I am increasingly documenting, blogging, open-sourcing my code and projects.
