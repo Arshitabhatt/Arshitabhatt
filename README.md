@@ -1,6 +1,6 @@
 <div><h2 align="center" style="border-bottom : 0px;" ><em>"Aut Viam Inveniam Aut Faciam"</em></h2><p align="center"> I will either find a way, or make one</p></div>
   
-# Welcome, Visitor Infinity! <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/tumblr_c0d8be3a1d2bfd58a1eb6c91baa5747b_8ac5ec86_250.gif" width="100px" >
+# Welcome, Visitor Infinity! <img src="assests\waving_yoda.gif" width="100px">
 
 ### Introduction 
 
