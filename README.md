@@ -1,6 +1,6 @@
 <div><h2 align="center"><em>"Aut Viam Inveniam Aut Faciam"</em></h2><p align="center"> I will either find a way, or make one</p></div>
   
-# Welcome, Visitor Infinity! :wave:
+# Welcome, Visitor Infinity! <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/tumblr_c0d8be3a1d2bfd58a1eb6c91baa5747b_8ac5ec86_250.gif" width="80px">
 
 I am Arshita Bhatt, I'm a Delhi-NCR based computer science engineer, who likes to develop simple & here-to-stay websites using ReactJS, Nodejs, ExpressJS, MongoDB, Firebase stack as well as apply Machine Learning/Deep Learning using Python for research-based projects.
 
