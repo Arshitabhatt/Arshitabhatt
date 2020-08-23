@@ -21,7 +21,7 @@ JavaScript, Python and Biology are my love, and as I am growing, I trying to lea
 ### What I do in my free time?
 I'm a book dragon who hungrily devour stories, novels, fictions, poems. I'm also a book detective who causually peeps into your titles & find all about it's plot in minutes. I listen to podcasts watch TV series. I love to speak out my ideas, debate on various topics and keep myself updated with current affairs. I occasionally like to pass on random facts about a thing or two. 
 
-### Where to find me?
-On LinkedIn : 
-On Twitter : 
-On my portfolio : 
+### Where to find me? 
+On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/linkedin.jpg" width="80px"> :  https://www.linkedin.com/in/arshitabhatt
+On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/twitter.png" width="80px"> :  https://twitter.com/Arshitabhatt
+On my portfolio : https://arshitabhatt.tech/
