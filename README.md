@@ -1,6 +1,6 @@
 <div><h2 align="center" style="border-bottom : 0px;" ><em>"Aut Viam Inveniam Aut Faciam"</em></h2><p align="center"> I will either find a way, or make one</p></div>
   
-# Welcome, Visitor Infinity! <img src="assests\waving_yoda.gif" width="100px">
+# Welcome, Visitor Infinity! <img src="./assests/waving_yoda.gif" width="100px">
 
 ### Introduction 
 
@@ -23,5 +23,7 @@ I'm a book dragon who hungrily devour stories, novels, fictions, poems. I'm also
 
 ### Where to find me? 
 On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/linkedin.jpg" width="80px"> :  https://www.linkedin.com/in/arshitabhatt
+
 On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/twitter.png" width="80px"> :  https://twitter.com/Arshitabhatt
+
 On my portfolio : https://arshitabhatt.tech/
