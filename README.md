@@ -22,7 +22,7 @@ JavaScript, Python and Biology are my love, and as I am growing, I trying to lea
 
 * <b>Short-term Goals</b> : To recieve a full time oppotunity as a software developer, fullstack developer or machine learning engineer for upcoming years, gain experience and connect with inspiring developers/ researcher, be independent.
 
-*  <b>Mid-term Goals</b> : Go for higher studies for AI in healthcare domain or Environment projection domain, complete MS/Mtech and PhD, work on awesome research projects either in academia or industry.   
+*  <b>Mid-term Goals</b> : Go for higher studies either AI in healthcare domain or Environment protection domain, complete MS/Mtech and PhD, work on awesome research projects either in academia or industry.   
 
 * <b>Life long Goals</b>: I aspire to create a positive social impact by working primarily in Healthcare and Environment protection domain. Build a vast library of my own book collection, learn all there is to learn in this world, and try to be guide for inquisitive minds!
 
