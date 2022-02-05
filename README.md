@@ -20,7 +20,7 @@ I'm an <b>avid learner</b> who is always ready to pick up new skills, A <b>think
 
 JavaScript, Python and Biology are my love, and as I am growing, I trying to learn and develop in the direction of my goals which are : 
 
-* <b>Short-term Goals</b> : To recieve a full time oppotunity as a software developer, fullstack developer or machine learning engineer for upcoming years, gain experience and connect with inspiring developers/ researcher, be independent.
+* <b>Short-term Goals</b> : To recieve a full time opporunity as a software developer, fullstack developer or machine learning engineer for upcoming years, gain experience and connect with inspiring developers/ researcher, be independent.
 
 *  <b>Mid-term Goals</b> : Go for higher studies either AI in healthcare domain or Environment protection domain, complete MS/Mtech and PhD, work on awesome research projects either in academia or industry.   
 
