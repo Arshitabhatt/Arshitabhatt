@@ -4,8 +4,8 @@
 
 ### Introduction 
 
-I am <b>Arshita Bhatt</b>, a Delhi-NCR based <b>Computer Science Engineer</b>, who likes to develop simple & here-to-stay websites using <b>ReactJS, Nodejs, ExpressJS, MongoDB, Firebase</b> stack as well as apply <b>Machine Learning/Deep Learning</b> using <b>Python</b> for <b>research-based projects</b>.
-I'm an <b>avid learner</b> who is always ready to pick up new skills, A <b>thinker</b> who tries to find ways & apply them to make things work, An <b>evolver</b> who likes to work with the flow.
+I am <b>Arshita Bhatt</b>, a Delhi-NCR based <b>Computer Science Engineer</b>, developing Python based <b>Data Engineering/Analytics and Machine Learning projects</b>, empowering small idea to create purposeful impact.
+I'm an <b>avid learner</b> who is always ready to pick up new skills, A <b>tinkerer</b> who tries to find ways & apply them to make things work, An <b>evolver</b> who likes to work with the flow.
 
 <!-- <img src="" alt ="Python" width="40px">&nbsp;
 <img src="" alt ="MongoDB" width="40px">&nbsp;
@@ -18,9 +18,9 @@ I'm an <b>avid learner</b> who is always ready to pick up new skills, A <b>think
 
 ### What are my goals?
 
-JavaScript, Python and Biology are my love, and as I am growing, I trying to learn and develop in the direction of my goals which are : 
+Python, Data Science and Social Good are my love, and as I am growing, I'm trying to learn and develop in the direction of my goals which are : 
 
-* <b>Short-term Goals</b> : To recieve a full time opporunity as a software developer, fullstack developer or machine learning engineer for upcoming years, gain experience and connect with inspiring developers/ researcher, be independent.
+* <b>Short-term Goals (currently pursuing) </b>: Working as Business Analyst @ ZS developing ETL/Data Engineering pipelines using PySpark and Apache Airflow to integrate multiple data sources, creating a datalake for analytics, dashboards and reporting on AWS as well as collaborating with multiple affiliates, performing data profiling to generate business insights at global scale.
 
 *  <b>Mid-term Goals</b> : Go for higher studies either AI in healthcare domain or Environment protection domain, complete MS/Mtech and PhD, work on awesome research projects either in academia or industry.   
 
