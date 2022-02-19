@@ -27,7 +27,7 @@ Python, Data Science and Social Good are my love, and as I am growing, I'm tryin
 * <b>Life long Goals</b>: I aspire to create a positive social impact by working primarily in Healthcare and Environment protection domain. Build a vast library of my own book collection, learn all there is to learn in this world, and try to be guide for inquisitive minds!
 
 ### What I do in my free time?
-I'm a book dragon who hungrily devour stories, novels, fictions, poems. I'm also a book detective who causually peeps into your titles & find all about it's plot in minutes. I listen to podcasts watch T.V. series, etc. I love to speak out my ideas, debate on various topics and keep myself updated with current affairs. I occasionally like to pass on random facts about a thing or two. 
+I'm a book dragon who hungrily devour stories, novels, fictions, poems. I'm also a book detective who causually peeps into your titles & find all about it's plot in minutes. I listen to podcasts watch T.V. series, anime (current watch Demon Slayer) etc. I love to speak out my ideas, debate on various topics and keep myself updated with current affairs. I occasionally like to pass on random facts about a thing or two. 
 
 ### Where to find me? 
 On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/linkedin.jpg" width="70px"> :  https://www.linkedin.com/in/arshitabhatt
