@@ -34,7 +34,7 @@ On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/li
 
 On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/twitter.png" width="70px"> :  https://twitter.com/Arshitabhatt
 
-On my portfolio : https://arshitabhatt.tech/
+On my portfolio : https://arshitabhatt.netlify.com/
 
 On <img src="https://github.com/Arshitabhatt/Arshitabhatt/blob/master/assests/medium.jpg" width="70px"> :  https://medium.com/@aarshibhatt112
 
