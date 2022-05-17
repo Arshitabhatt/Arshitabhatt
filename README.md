@@ -4,7 +4,7 @@
 
 ### Introduction 
 
-I am <b>Arshita Bhatt</b>, a Delhi-NCR based <b>Computer Science Engineer</b>, developing Python based <b>Data Engineering/Analytics and Machine Learning projects</b>, empowering small idea to create purposeful impact.
+I am <b>Arshita Bhatt</b>, a <b>Computer Science Engineer</b>, developing Python based <b>Data Engineering/Analytics and Machine Learning projects</b>, empowering small idea to create purposeful impact.
 I'm an <b>avid learner</b> who is always ready to pick up new skills, A <b>tinkerer</b> who tries to find ways & apply them to make things work, An <b>evolver</b> who likes to work with the flow.
 
 <!-- <img src="" alt ="Python" width="40px">&nbsp;
