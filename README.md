@@ -20,11 +20,11 @@ I'm an <b>avid learner</b> who is always ready to pick up new skills, A <b>tinke
 
 Python, Data Science and Social Good are my love, and as I am growing, I'm trying to learn and develop in the direction of my goals which are : 
 
-* <b>Short-term Goals (currently pursuing) </b>: Working as Business Analyst @ ZS developing ETL/Data Engineering pipelines using PySpark and Apache Airflow to integrate multiple data sources, creating a datalake for analytics, dashboards and reporting on AWS as well as collaborating with multiple affiliates, performing data profiling to generate business insights at global scale.
+* <b>Short-term Goals (currently pursuing) </b>: Working as Data Engineer II @ ZS developing ETL/Data Engineering pipelines using PySpark and Apache Airflow to integrate multiple data sources, creating a datalake for analytics, dashboards and reporting on AWS as well as collaborating with multiple Pharma clients performing data profiling to generate business insights at global scale.
 
-*  <b>Mid-term Goals</b> : Go for higher studies either AI in healthcare domain or Environment protection domain, complete MS/Mtech and PhD, work on awesome research projects either in academia or industry.   
+*  <b>Mid-term Goals</b> : To design, lead and deliver high-end data and analytics products/solutions, unlocking insights which would drive unprecedented success of a product. I would like to hone my LLM-esque skills and eventually grow as as Data/ML Engineer Lead.  
 
-* <b>Life long Goals</b>: I aspire to create a positive social impact by working primarily in Healthcare and Environment protection domain. Build a vast library of my own book collection, learn all there is to learn in this world, and try to be guide for inquisitive minds!
+* <b>Life long Goals</b>: I aspire utilize the upcoming technology, to create a positive social impact and set inspiring example in Tech world. I would love to build a vast library of my own book collection, learn all there is to learn in this world, and try to be guide for inquisitive minds!
 
 ### What I do in my free time?
 I'm a book dragon who hungrily devour stories, novels, fictions, poems. I'm also a book detective who causually peeps into your titles & find all about it's plot in minutes. I listen to podcasts watch T.V. series, anime (current watch Demon Slayer) etc. I love to speak out my ideas, debate on various topics and keep myself updated with current affairs. I occasionally like to pass on random facts about a thing or two. 
